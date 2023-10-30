@@ -1,5 +1,5 @@
 **TEMPERATURE CONVERTER**
-This is the fist Task of my Internship on WEB DEVELOPMENT.........
+This is the first Task of my Internship on WEB DEVELOPMENT.........
 Languages Used:
         .HTML
         .CSS
